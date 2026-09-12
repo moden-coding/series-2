@@ -1,7 +1,7 @@
 import unittest
 import pandas as pd
 import numpy as np
-from series_practice_2 import *
+from src.series_practice_2 import *
 
 class TestBookstoreSalesAnalysis(unittest.TestCase):
     def setUp(self):
